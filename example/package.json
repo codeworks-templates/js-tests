@@ -1,0 +1,22 @@
+{
+  "name": "a-demo",
+  "version": "1.0.0",
+  "description": "a dummy example",
+  "main": "index.js",
+  "author": "Jake Overall",
+  "contributors": [
+    "Mark Ohnsman"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "create-project": "^2.0.0",
+    "esm": "^3.2.25",
+    "inquirer": "^6.5.0",
+    "mime": "^2.4.4",
+    "slugify": "^1.5.3",
+    "update-notifier": "^3.0.1"
+  },
+  "scripts": {
+    "test": "this command gets overwritten"
+  }
+}
