@@ -1,3 +1,6 @@
+
+# added from js-tests
 node_modules
 coverage
 .nyc*
+# end
